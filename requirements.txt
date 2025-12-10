@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+openpyxl
+streamlit-lottie
+requests
+streamlit-extras
